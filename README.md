@@ -12,18 +12,32 @@ Aeronautical engineering is something I would like to pursue in the future) so I
 Photo Booth:
 
 Full 3D Model of Polly:
+
 <img width="1156" height="747" alt="{E690684C-77DB-487C-A40D-2138E91768BC}" src="https://github.com/user-attachments/assets/ed08621f-f35e-4bdf-8a28-7ef900cbb741" />
 
 Transmitter Custom Board:
+
 <img width="571" height="723" alt="{5275EE27-3C19-4AA1-9AFF-E367AF89E6A8}" src="https://github.com/user-attachments/assets/0faddee7-b0ba-4e43-93f7-de0cb029a70f" />
 
 Reciever Custom Board:
+
 <img width="554" height="723" alt="{7991383E-CCE6-4D20-B02C-3E17253A64B1}" src="https://github.com/user-attachments/assets/45a36171-52bc-4817-b603-b0bdbdb6bb2f" />
 
 In terms of electronics, a few things are missing from the pictures above:
+
 a) Transciever modules are to be soldered to the 7 through hole pads found on both modules
+
 b) Joystick modules are to be soldered to the J1 and J2 pins on the Transmitter
-c) A positive and negative terminal is to be soldered to the "Battery 1.5x6v" through holes, providing energy to the transmitter
+
+c) A positive and negative terminal is to be soldered to the "Battery 1.5x6v" through holes, providing energy to the transmitter circuit
+
+Another consideration for the Reciever:
+
+ - Servos are powered via the servo pins on the Reciever
+ - The Motor is connected to an ESC, which gives energy to the Reciever circuit.
+
+Here is a diagram, representing missing electronic devices from the transmitter and reciever circuits:
+
 
 
 
