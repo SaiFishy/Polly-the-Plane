@@ -38,8 +38,16 @@ Another consideration for the Reciever:
 
 Here is a wiring diagram, representing missing electronic devices from the transmitter and reciever circuits:
 
-Reciever:
+Transmitter - Joysticks are soldered on to the board, same goes for the power adapter for the transciever:
+
+<img width="511" height="662" alt="{FBBC17E1-562B-4FEB-A5EE-D416031D5EBE}" src="https://github.com/user-attachments/assets/106ceafe-f290-4d04-86ff-bbbb9289cf2f" />
+
+Reciever - wires soldered to power adapter, which connects to main module via inserts:
+
 <img width="936" height="502" alt="{1FAE48FF-3401-4459-8045-4B942B8E1FB7}" src="https://github.com/user-attachments/assets/cf6bbd9c-7c71-4c23-8bef-41adbab90ef1" />
+
+
+
 
 
 
