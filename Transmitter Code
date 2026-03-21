@@ -5,9 +5,9 @@
 RF24 radio(7, 10); 
 const byte address[6] = "00001";
 
-Servo yawServo;   // Servo 1
-Servo rollServo;  // Servo 2
-Servo pitchServo; // Servo 3
+Servo yaw;   // Servo 1
+Servo roll;  // Servo 2
+Servo pitch; // Servo 3
 
 const int motorPin = 3; // PWM Pin for Motor
 unsigned long lastRecvTime = 0;
@@ -24,9 +24,9 @@ struct Data_Package {
 Data_Package data;
 
 void setup() {
-  yawServo.attach(5);
-  rollServo.attach(6);
-  pitchServo.attach(9);
+  yaw.attach(5);
+  roll.attach(6);
+  pitch.attach(9);
   pinMode(motorPin, OUTPUT);
 
   radio.begin();
