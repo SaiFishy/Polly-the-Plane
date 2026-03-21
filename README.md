@@ -12,6 +12,8 @@ I also really like planes, (aeronautical engineering is something I would like t
 Photo Booth:
 
 Full 3D Model of Polly:
+<img width="1156" height="747" alt="{E690684C-77DB-487C-A40D-2138E91768BC}" src="https://github.com/user-attachments/assets/ed08621f-f35e-4bdf-8a28-7ef900cbb741" />
+
 
 
 
