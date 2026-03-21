@@ -21,6 +21,12 @@ Reciever Custom Board:
 <img width="554" height="723" alt="{7991383E-CCE6-4D20-B02C-3E17253A64B1}" src="https://github.com/user-attachments/assets/45a36171-52bc-4817-b603-b0bdbdb6bb2f" />
 
 
+In terms of electronics, a few things are missing from the pictures above:
+a) Transciever modules are to be soldered to the 7 through hole pads found on both modules
+b) Joystick modules are to be soldered to the J1 and J2 pins on the Transmitter
+c) A positive and negative terminal is to be soldered to the "Battery 1.5x6v" through holes, providing energy to the transmitter
+
+
 
 
 
