@@ -36,7 +36,11 @@ Another consideration for the Reciever:
  - Servos are powered via the servo pins on the Reciever
  - The Motor is connected to an ESC, which gives energy to the Reciever circuit.
 
-Here is a diagram, representing missing electronic devices from the transmitter and reciever circuits:
+Here is a wiring diagram, representing missing electronic devices from the transmitter and reciever circuits:
+
+Reciever:
+<img width="793" height="414" alt="{38BD42E0-D205-4FB7-8609-DF96010E7033}" src="https://github.com/user-attachments/assets/f28665ef-452e-40a5-8fad-4720f79fa922" />
+
 
 
 
