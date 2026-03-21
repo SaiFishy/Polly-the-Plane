@@ -39,7 +39,8 @@ Another consideration for the Reciever:
 Here is a wiring diagram, representing missing electronic devices from the transmitter and reciever circuits:
 
 Reciever:
-<img width="793" height="414" alt="{38BD42E0-D205-4FB7-8609-DF96010E7033}" src="https://github.com/user-attachments/assets/f28665ef-452e-40a5-8fad-4720f79fa922" />
+<img width="936" height="502" alt="{1FAE48FF-3401-4459-8045-4B942B8E1FB7}" src="https://github.com/user-attachments/assets/cf6bbd9c-7c71-4c23-8bef-41adbab90ef1" />
+
 
 
 
