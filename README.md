@@ -7,7 +7,7 @@ Polly is a high speed, manuverable RC plane, made out of 3D printed lightweight 
 1) It introduces me into aerodynamics, lift and forces acting on flying bodies.
 2) It introduces me into practical electronics.
 
-I also really like planes, (aeronautical engineering is something I would like to pursue in the future) so I thought it would be cool to make my own. 
+Aeronautical engineering is something I would like to pursue in the future) so I thought it would be cool to make my own plane. 
 
 Photo Booth:
 
