@@ -65,10 +65,7 @@ My BOM:
 |AA Battery Container|AliExpress|Needed to house the six AA batteries I am using for the transmitter|https://www.aliexpress.com/item/1005003507045224.html?spm=a2g0o.detail.0.0.1425XnkGXnkG0z&mp=1&pdp_npi=6%40dis%21GBP%21GBP%200.35%21GBP%200.28%21%21GBP%200.28%21%21%21%40211b65de17749879577795610e488a%2112000026099565743%21ct%21UK%217079411286%21%211%210%21|0.28|1
 |Transmitter PCB|JLCPCB|Key electronic component for Transmitter|https://jlcpcb.com/|8.20|1
 
-Total = £68.65
-
-Thats $90 <3
-
+Total = £68.56 or $90 USD <3
 
 
 
