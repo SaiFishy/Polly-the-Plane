@@ -1,11 +1,11 @@
 # RC UAV (Polly MK1)
 
-Polly is a fun, high speed and manuverable RC plane made out of 3D printed lightweight PLA parts and electronic components, designed to be easily replicatable by anyone. You can use my project by taking it out to the park, where you can enjoy the beauty of flight! Full specifications and calculations of this plane can be found at the bottom of this read me.  I decided to build this project for two reasons:
+Polly is a fun, high speed and manuverable RC plane made out of 3D printed lightweight PLA parts and electronic components, designed to be easily replicatable by anyone. There are no store bought transmitters or recievers, electronics wise, everything is home-engineered. You can use my project by taking it out to the park, where you can enjoy the beauty of flight! Full specifications and calculations of this plane are found seperatly.  I decided to build this project for two reasons:
 
 1) It introduces me into aerodynamics, lift and forces acting on flying bodies.
 2) It introduces me into practical electronics.
 
-Aeronautical engineering is something I would like to pursue in the future) so I thought it would be cool to make my own plane. 
+Aeronautical engineering is something I would like to pursue in the future, so I thought it would be cool to make my own plane. 
 
 Photo Booth:
 
@@ -38,7 +38,7 @@ c) A positive and negative terminal is to be soldered to the "Battery 1.5x6v" th
 Another consideration for the Reciever:
 
  - Servos are powered via the servo pins on the Reciever
- - The Motor is connected to an ESC, which gives energy to the Reciever circuit.
+ - The Motor is connected to an external ESC, which gives energy to the Reciever circuit.
 
 Here is a wiring diagram, representing missing electronic devices from the transmitter and reciever circuits:
 
