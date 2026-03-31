@@ -53,7 +53,11 @@ Reciever - wires soldered to power adapter, which connects to main module via in
 
 My BOM:
 
-
+| Name | Description | Link | Unit Price | Amount |
+|------|-------------|------|------------|--------|
+| LW-PLA | Material used to 3D Print the Plane ||---|
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
 
