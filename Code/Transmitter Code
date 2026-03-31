@@ -16,7 +16,7 @@ const int motorPin = 3; // PWM Pin for Motor
 unsigned long lastRecvTime = 0;
 
 struct Data_Package {
-  int throttle; // J1_X
+  int throttle; // J1_X (The joystick is soldered backwards)
   int yaw;      // J1_Y
   int j1_S; 
   int roll;     // J2_X
@@ -60,7 +60,7 @@ void loop() {
   // Failsafe: Stop motor if signal is lost for more than 1 second
   if (millis() - lastRecvTime > 1000) {
     analogWrite(motorPin, 0); 
-    // Optional: Center servos on signal loss
+    // Optional (just in case): Center servos on signal loss
     yawServo.write(90);
     rollServo.write(90);
     pitchServo.write(90);
