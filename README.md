@@ -65,7 +65,7 @@ My BOM:
 
 Total = £58.75
 
-Thats roughly $77
+Thats roughly $77 <3
 
 
 
