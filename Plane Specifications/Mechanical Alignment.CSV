@@ -1,0 +1,6 @@
+Feature,Dimension,Notes
+Mean Aerodynamic Chord (MAC),337.62 mm,Length
+MAC Leading Edge Distance,120.86 mm,Distance from the nose to the start of the MAC
+Hinge Pivot Axis,4.83°,Hinge and Bevel angle
+Servo Rotation Angle,4.83°,servo pockets to keep pushrods straight
+Control Horn Height,15 mm to 18 mm,Vertical distance from the hinge pivot to the pushrod hole
