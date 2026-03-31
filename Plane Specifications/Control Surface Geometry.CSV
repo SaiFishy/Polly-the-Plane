@@ -1,0 +1,7 @@
+Feature,Dimension,Notes
+Elevon Span,270 mm,Length along the wing
+Elevon Root Chord,65 mm,Depth at the inboard side
+Elevon Tip Chord,40 mm,Depth at the outboard side
+Total Elevon Area,2.84 dm^2,Combined for both sides
+Control Authority,13.8%,Ratio of elevon area to total wing area
+Bevel Angle,30° top / 30° bottom,Total 60° ""V"" for 30° of travel
