@@ -63,7 +63,9 @@ My BOM:
 |7 Pin Header|AliExpress|For RC transmitter|https://www.aliexpress.com/item/1005003378453697.html?spm=a2g0o.productlist.main.1.1b94oodqoodq2I&algo_pvid=60db83dc-5e4e-49c4-9e07-441d478fde9c&algo_exp_id=60db83dc-5e4e-49c4-9e07-441d478fde9c-0&pdp_ext_f=%7B%22order%22%3A%22981%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%211.96%210.76%21%21%212.54%210.98%21%40211b807017734317466243621e3f7f%2112000025503609436%21sea%21UK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Af4c5e4bc%3Bm03_new_user%3A-29895%3BpisId%3A5000000197842827&curPageLogUid=weNt3HCvqMDA&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005003378453697%7C_p_origin_prod%3A|0.6|1
 |Propellor|Amazon| Needed to pull the aircraft through the air|https://www.amazon.co.uk/gp/product/B0FQ64833L/ref=ox_sc_act_title_1?smid=AIF4G7PLKBOZY&th=1|7.59|1
 
-Total = 
+Total = £58.75
+
+Thats roughly $77
 
 
 
