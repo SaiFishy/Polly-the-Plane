@@ -55,7 +55,7 @@ My BOM:
 
 | Name | Description | Link | Unit Price | Amount |
 |------|-------------|------|------------|--------|
-| LW-PLA | Material used to 3D Print the Plane ||---|
+| LW-PLA | Material used to 3D Print the Plane |-https://www.amazon.co.uk/Polymaker-PolyLite-LW-PLA-1-75mm-Orange/dp/B0B1DN6ZS2/ref=sr_1_8?crid=1LGJH7WZI7LPJ&dib=eyJ2IjoiMSJ9.7NVKP6lLQk_oGaVB1Zfql770cJAfWj3Vd1g4rNObkQ4qp86Lm7qOvhqVssQkyv0N0ut1clPIQsTGn12EPv3av1gzgP4x7koD1EaTn_OHvu23WSZHzRjkHblda8hTg6F6n2uufnBvSvsSGG5aPnxTNralJtvIxOgI_hwUysCvwbEipjTrrWd5GSODbmHzMMDucGdpWmFZz-7NbtFoGEt5umbmQpnkpKWwHT-j2yCiJa280lxV6w7lPr-C6d77m0R0mBKz1Ll8E96Y_cZUjH-UFZYvcgnsvCJEXZwSkU3i3DI.wnMQtctX_aHIx4wfu0EOp-1klzPyXWX7nywmYNPrIHs&dib_tag=se&keywords=lightweight%2Bpla&qid=1774125033&rdc=1&sprefix=lightweight%2Bp%2Caps%2C244&sr=8-8&th=1|26.4|1
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
