@@ -1,6 +1,6 @@
 # RC UAV (Polly MK1)
 
-Polly is a fun, high speed and manuverable RC plane made out of 3D printed lightweight PLA parts and electronic components, designed to be easily replicatable by anyone. You can use my project by taking it out to the park, where you can enjopy the beauty of flight! Full specifications and calculations of this plane can be found at the bottom of this read me.  I decided to build this project for two reasons:
+Polly is a fun, high speed and manuverable RC plane made out of 3D printed lightweight PLA parts and electronic components, designed to be easily replicatable by anyone. You can use my project by taking it out to the park, where you can enjoy the beauty of flight! Full specifications and calculations of this plane can be found at the bottom of this read me.  I decided to build this project for two reasons:
 
 1) It introduces me into aerodynamics, lift and forces acting on flying bodies.
 2) It introduces me into practical electronics.
