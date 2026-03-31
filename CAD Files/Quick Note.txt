@@ -1,5 +1,5 @@
 Dear reviewer,
 
-The detail of electronic design is inadequate in the plane CAD model. Therefore I am only requesting a grant that could pay for the materials that will build the plane, not the PCB or any other electronic components associated with the actual plane as a compromise. However, as seen by my BOM, I still do request for the electronics of the transmitter, aswell as the other necessarry components to compete for the grant please. 
+The detail of electronic intergration in the plane may seem inadequate. This is because I am only requesting a grant that could pay for the materials that will build the plane, not the PCB or any other electronic component associated with it. However, as seen by my BOM, I still do request for the electronics of the transmitter (since those are comprihensively intergrated) aswell as the other necessarry components to compete for the grant please.
 
 Many Thanks, Sai 
