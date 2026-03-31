@@ -1,0 +1,8 @@
+Feature,Dimension,Notes
+Total Wingspan,700 mm,The full distance from tip to tip.
+Semi-span,350 mm,Distance from the centerline to one wingtip.
+Root Chord,500 mm,The length of the wing where it meets the fuselage.
+Tip Chord,60 mm,The length of the wing at the very end of the span.
+Leading Edge Sweep,53.3°,The angle the front of the wing makes with the transverse axis.
+Trailing Edge Sweep,4.83°,Calculated based on the taper; this is your hinge line axis.
+Total Wing Area,20.59 dm^2,The total surface area available for lift.
