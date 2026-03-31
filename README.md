@@ -15,6 +15,11 @@ Full 3D Model of Polly:
 
 <img width="1156" height="747" alt="{E690684C-77DB-487C-A40D-2138E91768BC}" src="https://github.com/user-attachments/assets/ed08621f-f35e-4bdf-8a28-7ef900cbb741" />
 
+Transmitter:
+
+<img width="600" height="731" alt="{6DD9E73D-3987-4DA9-92BE-4E7886154A10}" src="https://github.com/user-attachments/assets/4bc91951-e164-4663-8341-032d5b5c0258" />
+
+
 Transmitter Custom Board:
 
 <img width="571" height="723" alt="{5275EE27-3C19-4AA1-9AFF-E367AF89E6A8}" src="https://github.com/user-attachments/assets/0faddee7-b0ba-4e43-93f7-de0cb029a70f" />
@@ -23,9 +28,6 @@ Reciever Custom Board:
 
 <img width="554" height="723" alt="{7991383E-CCE6-4D20-B02C-3E17253A64B1}" src="https://github.com/user-attachments/assets/45a36171-52bc-4817-b603-b0bdbdb6bb2f" />
 
-Picture of Controller with pcb inside:
-
-<img width="506" height="463" alt="{7F6DD594-114A-4338-9A5A-D58D14824A45}" src="https://github.com/user-attachments/assets/5abee2fb-86b0-4061-8361-5a8421b79952" />
 
 In terms of electronics, a few things are missing from the pictures above:
 
