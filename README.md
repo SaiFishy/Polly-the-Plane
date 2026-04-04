@@ -7,7 +7,7 @@ Polly is a fun, high speed and manuverable RC plane made out of 3D printed light
 
 Aeronautical engineering is something I would like to pursue in the future, so I thought it would be cool to make my own plane. 
 
-Photo Booth:
+# Photo Booth:
 
 Full 3D Model of Polly:
 
@@ -51,7 +51,7 @@ Reciever - wires soldered to power adapter, which connects to main module via in
 <img width="936" height="502" alt="{1FAE48FF-3401-4459-8045-4B942B8E1FB7}" src="https://github.com/user-attachments/assets/cf6bbd9c-7c71-4c23-8bef-41adbab90ef1" />
 
 
-My BOM:
+# My BOM:
 
 | Name | Source | Description | Link | Unit Price | Amount |
 |------|--------|-------------|------|------------|--------|
