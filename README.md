@@ -64,7 +64,7 @@ Reciever - wires soldered to power adapter, which connects to main module via in
 |Transmitter PCB|JLCPCB|Key electronic component for Transmitter|https://jlcpcb.com/|8.20|1
 |Magnets|AliExpress|Used to attatch cover to transmitter|https://www.aliexpress.com/item/1005010158237241.html?spm=a2g0o.cart.0.0.35b738da54pPAA&mp=1&pdp_npi=6%40dis%21GBP%21GBP%204.52%21GBP%202.26%21%21GBP%202.26%21%21%21%40211b615317749939585047347e0e2b%2112000051386333423%21ct%21UK%217079411286%21%211%210%21|2.26|1
 
-Total = £70.82 or $92 USD <3
+Total = £25.40 or $34.30 USD <3
 
 
 
