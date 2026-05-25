@@ -1,5 +1,5 @@
 Dear reviewer,
 
-The detail of electronic intergration in the plane may seem inadequate. This is because I am only requesting a grant that could pay for the materials that will build the plane, not the PCB or any other electronic component associated with it. However, as seen by my BOM, I still do request for the electronics of the transmitter (since those are comprihensively intergrated) aswell as the other necessarry components to compete for the grant please.
+I have updated the electronic intergration of my plane so that it is adequate enough so that someone will be able to build the plane themselves. There are f3z/f3d files for the controller and the plane, in the Source Design File section.
 
 Many Thanks, Sai 
