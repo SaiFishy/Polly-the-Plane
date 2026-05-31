@@ -1,5 +1,5 @@
 Dear reviewer,
 
-I have updated the electronic intergration of my plane so that it is adequate enough so that someone will be able to build the plane themselves. There are definitly f3d/f3z and step files for both the rc transmitter and rc plane itself.
+I have now fully intergrated the electronics of the plane into my cad files so that someone will be able to build the plane themselves. There are definitly f3d/f3z and step files for both the rc transmitter and rc plane itself.
 
 Many Thanks, Sai 
