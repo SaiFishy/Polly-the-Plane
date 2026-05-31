@@ -53,17 +53,18 @@ Reciever - wires soldered to power adapter, which connects to main module via in
 
 # My BOM:
 
-Name,Source,Description,Link,Unit Price,Quantity,Total Price
-NRF24L01 Module,AliExpress,Radio Communication between Ground and UAV,https://www.aliexpress.com/item/1005009253882566.html,2.59,2,5.18
-Steel Push Rods,AliExpress,Control of Aircraft,https://www.aliexpress.com/item/1005010645116134.html,2.48,1,2.48
-Nylon Hinge,AliExpress,Ensures safe movement of control surfaces,https://www.aliexpress.com/item/1005003378453697.html,2.11,1,2.11
-7 Pin Header,AliExpress,For RC Transmitter and Receiver,https://www.aliexpress.com/item/1005007569841697.html,0.63,2,1.26
-15 Pin Female Header,AliExpress,Electronic connection component for project boards,https://www.aliexpress.com/item/100501418544370.html,1.89,1,1.89
-Propeller,Amazon,Needed to pull the aircraft through the air,https://www.amazon.co.uk/gp/product/B0FQ64833L/,7.59,1,7.59
-AA Battery Container,AliExpress,Needed to house the six AA batteries used for the transmitter,https://www.aliexpress.com/item/1005003507045224.html,0.28,1,0.28
-Transmitter PCB (Batch of 5),JLCPCB,Key electronic component for Transmitter,https://jlcpcb.com/,1.04,5,5.2
-Receiver PCB (Batch of 5),JLCPCB,Key electronic component for Receiver,https://jlcpcb.com/,0.3,5,1.49
-Magnets,AliExpress,Used to attach cover to transmitter,https://www.aliexpress.com/item/1005010158237241.html,2.42,1,2.42
+| Name | Source | Description | Link | Unit Price | Amount |
+|------|--------|-------------|------|------------|--------|
+|NRF24L01 Module|AliExpress|Radio Communication between Ground and UAV|https://www.aliexpress.com/item/1005009253882566.html|2.59|2|
+|Steel Push Rods|AliExpress|Control of Aircraft|https://www.aliexpress.com/item/1005010645116134.html|2.48|1|
+|Nylon Hinge|AliExpress|Ensures safe movement of control surfaces|https://www.aliexpress.com/item/1005003378453697.html|2.11|1|
+|7 Pin Header|AliExpress|For RC Transmitter and Receiver|https://www.aliexpress.com/item/1005007569841697.html|0.63|2|
+|15 Pin Female Header|AliExpress|Electronic connection component for project boards|https://www.aliexpress.com/item/100501418544370.html|1.89|1|
+|Propeller|Amazon|Needed to pull the aircraft through the air|https://www.amazon.co.uk/gp/product/B0FQ64833L/|7.59|1|
+|AA Battery Container|AliExpress|Needed to house the six AA batteries used for the transmitter|https://www.aliexpress.com/item/1005003507045224.html|0.28|1|
+|Transmitter PCB (Batch of 5)|JLCPCB|Key electronic component for Transmitter|https://jlcpcb.com/|1.04|5|
+|Receiver PCB (Batch of 5)|JLCPCB|Key electronic component for Receiver|https://jlcpcb.com/|0.30|5|
+|Magnets|AliExpress|Used to attach cover to transmitter|https://www.aliexpress.com/item/1005010158237241.html|2.42|1|
 
 Total = £29.90 or $40.22 USD <3
 
